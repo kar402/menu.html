@@ -1,0 +1,27 @@
+h1{
+   text-align: center;
+    font-family: cursive;
+    background-color: hsl(323, 71%, 58%);
+    
+     }
+p{text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large
+;
+ }  
+ h3{
+    text-align: center;
+    font-family: cursive;
+    background-color: hsl(323, 71%, 58%);    
+   }
+div{
+    display: flex;
+    justify-content: center;
+}
+ul{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    a{
+      text-align: center;
+    font-family: cursive; 
+    }
+
+ 

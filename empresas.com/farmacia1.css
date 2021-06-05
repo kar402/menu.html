@@ -1,0 +1,28 @@
+body{
+
+    background: url(fondo1.jpg) repeat-x; 
+}
+
+
+p{
+    background: linear-gradient(to right,pink, brown, blue);
+    font-family: 'lobster', cursive ;
+    font-size: 25px;
+}
+title{
+    background: linear-gradient( to right, red, brown );
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: 34px;
+}
+ol{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: maroon;
+   font-size: 17px;
+}
+

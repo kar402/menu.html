@@ -1,0 +1,29 @@
+P.MAX{
+    font-family: cursive;
+    font-size: 40;
+    background-color: hsl(180, 95%, 76%);
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    font-size: 30;
+    background-color: lightskyblue;
+    text-align: center;
+}
+p{
+    font-family: cursive;
+    font-size: 30;
+    background-color: #aca2e6;
+    text-align: center;
+}
+ul{
+    font-family: cursive;
+    font-size: 30;
+    background-color: #aca2e6;
+    text-align: center;
+}
+p.osi{font-family: cursive;
+    font-size: 40;
+    background-color: #aca2e6;
+    text-align: center;}
+    
